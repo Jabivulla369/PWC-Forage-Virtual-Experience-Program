@@ -1,4 +1,4 @@
-# PWC-Forage-Virtual-Experience-Program
+# PWC-forage-virtual-experience-program
 
 The tasks given under PwC PowerBI Virtual Experience Program in Forage.
 
@@ -8,25 +8,35 @@ Task 2: Call Centre Trends
 
 Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
-This task requires you to create a dashboard in Power BI that displays all the relevant KPIs and metrics related to call center trends. Possible KPIs include:
+This task requires you to create a dashboard in Power BI that displays all the relevant KPIs and metrics related to call center trends.
+Possible KPIs include:
 
-Overall customer satisfaction: This KPI measures the satisfaction level of customers who contacted the call center for support. Overall calls answered/abandoned: This KPI measures the number of calls answered by agents versus the number of calls abandoned by customers. Calls by time: This KPI measures the volume of calls during different times of the day, week, or month. Average speed of answer: This KPI measures the average time taken by agents to answer customer calls. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
+Overall customer satisfaction: This KPI measures the satisfaction level of customers who contacted the call center for support.
+Overall calls answered/abandoned: This KPI measures the number of calls answered by agents versus the number of calls abandoned by customers.
+Calls by time: This KPI measures the volume of calls during different times of the day, week, or month.
+Average speed of answer: This KPI measures the average time taken by agents to answer customer calls.
+Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
+
 
 Task 3: Customer Retention
 
 Define proper KPIs:
 
-This task requires you to define the appropriate KPIs for the retention manager based on the dataset. Create a dashboard for the retention manager reflecting the KPIs:
+This task requires you to define the appropriate KPIs for the retention manager based on the dataset.
+Create a dashboard for the retention manager reflecting the KPIs:
 
-This task requires you to create a dashboard that displays the defined KPIs for the retention manager to track the customer retention rate. Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed:
+This task requires you to create a dashboard that displays the defined KPIs for the retention manager to track the customer retention rate.
+Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed:
 
 This task requires you to write an email to the engagement partner, explaining the findings from the dashboard and providing suggestions on what needs to be changed to improve customer retention.
+
 
 Task 4: Diversity & Inclusion
 
 Gender balance in the executive suite:
 
-This task requires you to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset. Calculating the following measures could help to define proper KPIs:
+This task requires you to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset.
+Calculating the following measures could help to define proper KPIs:
 
 No. of men: This KPI measures the number of male employees in the executive suite.
 
@@ -47,3 +57,4 @@ No. of leavers: This KPI measures the number of employees who left the company d
 Average performance rating: men: This KPI measures the average performance rating of male employees in the executive suite.
 
 Average Performance rating: women: This KPI measures the average performance rating of female employees in the executive suite.
+
